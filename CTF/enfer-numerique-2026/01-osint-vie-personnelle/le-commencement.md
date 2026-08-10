@@ -13,10 +13,11 @@
 
 ## Réponse
 
-Date obtenue via Have I Been Pwned ✅ Validé — *[à compléter avec la date exacte trouvée dans tes notes/capture originale]*
+**01-2019**
 
-## Méthode
+## Preuves
+![](../images/le-commencement1.png)
 
-Le réflexe classique en OSINT/cybersécurité : dès qu'un email est identifié, le passer sur Have I Been Pwned pour retracer l'historique des fuites de données liées à cette adresse.
+![](../images/le-commencement2.png)
 
-> 📸 **Capture manquante** : résultat Have I Been Pwned montrant la date du premier leak (la date précise ne figure pas dans mes notes, peux-tu me la confirmer/l'ajouter ?).
+![](../images/le-commencement3.png)
