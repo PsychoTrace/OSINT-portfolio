@@ -14,10 +14,9 @@
 - Première tentative avec l'identifiant du profil Facebook → incorrect, ce n'est pas le bon compte.
 - Récupération de l'identifiant présent dans l'URL du compte OnlyFans.
 
-![Indice trouvé sur le profil Facebook menant au compte OnlyFans](../../images/02-le-compte-de-la-honte_01-indice-facebook.png)
-
-![URL du compte OnlyFans avec l'identifiant](../../images/02-le-compte-de-la-honte_02-url-onlyfans.png)
+![](../images/le-compte-de-la-honte.png)
 
 ## Réponse
 
 **u533063999** 
+
