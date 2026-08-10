@@ -8,8 +8,8 @@
 
 ## Pistes explorées
 
-- **Lille** : hypothèse basée sur le lycée mentionné dans son CV en ligne (confusion lycée / ville natale). ❌ Incorrect.
-- **Toulon** : piste évoquée à partir d'un élément de son profil LinkedIn, mais non confirmée avec certitude. ❌ Non retenue.
+- **Lille** : hypothèse basée sur le lycée mentionné dans son CV en ligne (confusion lycée / ville natale). Incorrect.
+- **Toulon** : piste évoquée à partir d'un élément de son profil LinkedIn, mais non confirmée avec certitude. Non retenue.
 - Lecture de son blog personnel [diariste.fr/MelanieLefevre](https://www.diariste.fr/MelanieLefevre) → l'article ["ça n'arrive pas qu'aux autres"](https://www.diariste.fr/MelanieLefevre/posts/ca-narrive-pas-quaux-autres) mentionne explicitement sa ville de naissance.
 
 ![](../images/son-histoire.png)
