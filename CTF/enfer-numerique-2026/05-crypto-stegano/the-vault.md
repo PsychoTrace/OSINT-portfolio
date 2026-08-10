@@ -12,7 +12,7 @@
 - Découverte d'un second dépôt du même auteur, [github.com/samir-taleb/Wordlist](https://github.com/samir-taleb/Wordlist), envisagé comme wordlist à faire tourner sur `vault.py` - piste écartée car le challenge est classé "reverse" et "moyen", pas bruteforce.
 - Le nom du créateur du programme était en réalité déjà connu : il s'agit de Samir lui-même (identifié dans [son-coloc-samir](../../01-osint-vie-personnelle/son-coloc-samir/)).
 
-![Script Python obfusqué avec PyArmor trouvé sur le dépôt GitHub</br>](../../images/05-the-vault_01-script-python-pyarmor.png)
+![](../images/the-vault.png)
 
 ## Réponse
 
