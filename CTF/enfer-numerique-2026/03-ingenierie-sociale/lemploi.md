@@ -10,7 +10,7 @@
 
 - Confirmation du bon compte X de Mélanie (`M3LaNiL3Fevre`) via la photo et la bio *"I am determined to uncover the whole truth."*, menant à son CV en ligne : [doyoubuzz.com/melanie-lefevre](https://www.doyoubuzz.com/melanie-lefevre).
 
-![CV en ligne de Mélanie sur DoYouBuzz](../../images/03-lemploi_01-cv-doyoubuzz.png)
+![](../images/lemploi.png)
 
 ## Réponse
 
