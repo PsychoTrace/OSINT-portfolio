@@ -12,4 +12,4 @@
 
 ## Réponse
 
-**Étudiant en informatique** ✅ Validé
+**Étudiant en informatique** 
