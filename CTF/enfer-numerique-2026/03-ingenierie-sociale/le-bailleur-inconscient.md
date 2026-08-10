@@ -14,9 +14,7 @@
 - Requête sur l'API Keybase pour identifier le propriétaire de cette clé PGP : `https://keybase.io/_/api/1.0/key/fetch.json?pgp_key_ids=128EE0D2F6E04649`.
 - Le JSON retourné révèle le nom complet et l'email associés à la clé.
 
-![Signature PGP extraite du mail suspect](../../images/03-le-bailleur-inconscient_01-signature-pgp.png)
-
-![Résultat de la requête API Keybase identifiant le titulaire de la clé](../../images/03-le-bailleur-inconscient_02-resultat-keybase-api.png)
+![](../images/le-bailleur-inconscient.png)
 
 ## Réponse
 
