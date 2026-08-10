@@ -11,7 +11,7 @@
 - Découverte du site frauduleux se faisant passer pour un quiz cinéma : [jeucinequiz.online](https://jeucinequiz.online/), qui demande la date de naissance de l'utilisateur pour générer des résultats personnalisés (film/acteur/ville "nés le même jour que toi") - mécanisme classique de collecte déguisée de données personnelles.
 - Saisie de la date de naissance de Mélanie (4 juillet 2004) sur le site pour obtenir le triplet de résultats généré.
 
-![Site "jeucinequiz.online" utilisé pour collecter les dates de naissance](../../images/07-jeu-de-dupes_01-site-jeucinequiz.png)
+![](../images/jeu-de-dupes4.png)
 
 ## Réponse
 
