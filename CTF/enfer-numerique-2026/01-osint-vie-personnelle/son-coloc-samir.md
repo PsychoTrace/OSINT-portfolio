@@ -24,9 +24,3 @@ Reconnaissance sur le colocataire de Mélanie, identifié via un dépôt GitHub 
 | Résidence | 16 rue Curial, 75019 Paris (Résidence Paname 19) |
 | Centres d'intérêt | Football, moto |
 | Indice codé | `mélanie4ever` (décodage ASCII85 d'un post Bluesky) |
-
-## Méthode
-
-Remontée depuis un dépôt GitHub public jusqu'à l'identité complète via recoupement de pseudos, puis géolocalisation par recherche d'image inversée sur une photo publiée.
-
-> 📸 **Captures manquantes** : dépôt GitHub, profils sociaux, décodage ASCII85, recherche d'image inversée / Street View.
