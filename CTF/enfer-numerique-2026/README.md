@@ -17,11 +17,3 @@ Investigation autour de **Mélanie Lefèvre**, victime d'une usurpation d'identi
 | 5 | [Cryptographie & stéganographie](05-crypto-stegano/) | 4 |
 | 6 | [Identité & documents administratifs](06-identite-documents/) | 2 |
 | 7 | [Investigation & jeux/indices](07-investigation-indices/) | 2 |
-
-## Format des write-ups
-
-Chaque challenge suit la même structure :
-- **Consigne** : l'énoncé original du challenge
-- **Pistes explorées** : démarche complète, y compris les tentatives infructueuses
-- **Réponse** : le flag validé
-- **Méthode** : comment on l'a trouvé, avec sources et captures d'écran
