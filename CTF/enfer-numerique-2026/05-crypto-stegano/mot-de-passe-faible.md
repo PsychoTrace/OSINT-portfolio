@@ -14,10 +14,6 @@
 - Lecture d'un article du blog Diariste : ["Qui se permet de piquer mon identité comme ça ?!"](https://www.diariste.fr/MelanieLefevre/posts/qui-se-permet-de-piquer-mon-identite-comme-ca) → indice textuel : *"le prénom de mon crush + 2017"*.
 - Recoupement avec sa date de naissance trouvée sur Facebook : 4 juillet 2004.
 
-![Résultat de recherche IntelX pour l'email de Mélanie](../../images/05-mot-de-passe-faible_01-intelx-breach.png)
-
-![Article Diariste donnant l'indice du mot de passe](../../images/05-mot-de-passe-faible_02-article-diariste-mdp.png)
-
 ## Réponse
 
 **04072004** 
