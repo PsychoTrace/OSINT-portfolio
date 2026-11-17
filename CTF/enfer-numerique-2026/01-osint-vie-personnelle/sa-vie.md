@@ -25,5 +25,3 @@
 ## Méthode
 
 Recherche croisée pseudo/visage sur les principaux réseaux sociaux, puis remontée via les adresses e-mail (outil **Epios**) pour retrouver les comptes Google associés (Maps, Calendar, Drive) et enrichir le profil.
-
-> 📸 **Captures manquantes** : profils X/LinkedIn/Facebook/Instagram, résultats Epios, capture du script de génération de pseudos.
